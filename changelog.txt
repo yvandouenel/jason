@@ -1,0 +1,3 @@
+Release 1.0.0 23/06/2022
+--------------------------------------------------------
+Fichier html avec image et js pour animer du texte
